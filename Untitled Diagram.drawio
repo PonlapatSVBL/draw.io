@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T09:31:48.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="VLSEPI0QjVWM1uYg2lub" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T09:38:02.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="VPkO7uqvAaRwiCSowAwC" version="24.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2852" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,7 +363,7 @@
         <mxCell id="XTZ4HtEFGTOIL8CyGxJM-2100" value="Power BI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=25;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;labelBackgroundColor=none;fontColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="2240" y="2385.25" width="123.75" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="XTZ4HtEFGTOIL8CyGxJM-2107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;dashed=1;flowAnimation=1;" edge="1" parent="1" source="XTZ4HtEFGTOIL8CyGxJM-2088" target="XTZ4HtEFGTOIL8CyGxJM-2093">
+        <mxCell id="XTZ4HtEFGTOIL8CyGxJM-2107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;dashed=1;flowAnimation=1;strokeColor=#9F7A34;shadow=1;" edge="1" parent="1" source="XTZ4HtEFGTOIL8CyGxJM-2088" target="XTZ4HtEFGTOIL8CyGxJM-2093">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XTZ4HtEFGTOIL8CyGxJM-2114" value="Security &amp;amp; Governance" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=30;fontColor=#00FF00;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
