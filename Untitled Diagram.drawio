@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T09:21:44.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="iK_AngznSF27KEdB2l7T" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T09:22:09.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="hTsskZkqewbMSVXAGtsy" version="24.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2194" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -354,7 +354,7 @@
         <mxCell id="XTZ4HtEFGTOIL8CyGxJM-2097" value="Gold" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D4AF37;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1743.57" y="2395.25" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XTZ4HtEFGTOIL8CyGxJM-2113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.459;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;dashed=1;flowAnimation=1;" edge="1" parent="1" source="XTZ4HtEFGTOIL8CyGxJM-2099" target="XTZ4HtEFGTOIL8CyGxJM-2100">
+        <mxCell id="XTZ4HtEFGTOIL8CyGxJM-2113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.459;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;dashed=1;flowAnimation=1;fontColor=#004C99;strokeColor=#004C99;" edge="1" parent="1" source="XTZ4HtEFGTOIL8CyGxJM-2099" target="XTZ4HtEFGTOIL8CyGxJM-2100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XTZ4HtEFGTOIL8CyGxJM-2099" value="Azure Synapse Analytics" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=25;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;labelBackgroundColor=none;fontColor=#004C99;" vertex="1" parent="1">
