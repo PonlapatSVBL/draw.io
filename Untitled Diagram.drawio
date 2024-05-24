@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T09:31:20.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="w2PU3-MJ4Ha62PalNfkE" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T09:31:48.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="VLSEPI0QjVWM1uYg2lub" version="24.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2593" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
+    <mxGraphModel dx="2852" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,7 +367,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XTZ4HtEFGTOIL8CyGxJM-2114" value="Security &amp;amp; Governance" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=30;fontColor=#00FF00;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1580" y="3130" width="720" height="380" as="geometry" />
+          <mxGeometry x="1630" y="3170" width="606.32" height="320" as="geometry" />
         </mxCell>
         <mxCell id="XTZ4HtEFGTOIL8CyGxJM-2115" value="Azure Active Directory" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=25;image=img/lib/azure2/identity/Azure_Active_Directory.svg;fontColor=#004C99;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1698.26" y="3250" width="153.13" height="140" as="geometry" />
